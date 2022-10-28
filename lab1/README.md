@@ -41,23 +41,23 @@ SVM или метод опорных векторов отличается от 
 
 ## Linear Regression
 
-![](../../ai/vlados_ai/ML-main/Lab1/images/Screenshot%202022-10-28%20at%2013.40.33.png)
+![](images/Screenshot%202022-10-28%20at%2013.40.33.png)
 
 ## Logistic Regression
 
-![](../../ai/vlados_ai/ML-main/Lab1/images/Screenshot%202022-10-28%20at%2013.40.40.png)
+![](images/Screenshot%202022-10-28%20at%2013.40.40.png)
 
 ## SVM
 
-![](../../ai/vlados_ai/ML-main/Lab1/images/Screenshot%202022-10-28%20at%2013.40.48.png)
+![](images/Screenshot%202022-10-28%20at%2013.40.48.png)
 
 ## KNN
 
-![](../../ai/vlados_ai/ML-main/Lab1/images/Screenshot%202022-10-28%20at%2013.41.10.png)
+![](images/Screenshot%202022-10-28%20at%2013.41.10.png)
 
 ## Наивный байесовский классификатор
 
-![](../../ai/vlados_ai/ML-main/Lab1/images/Screenshot%202022-10-28%20at%2013.41.13.png)
+![](images/Screenshot%202022-10-28%20at%2013.41.13.png)
 
 # Вывод
 
